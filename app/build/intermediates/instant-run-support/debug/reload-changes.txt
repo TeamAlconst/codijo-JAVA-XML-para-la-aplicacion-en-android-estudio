@@ -1,0 +1,14 @@
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\MainActivity$2$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\R$style$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\R$menu$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\MainActivity$ConnectedThread$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\R$drawable$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\MainActivity$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\R$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\R$string$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\DeviceListActivity$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\R$id$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\R$layout$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\MainActivity$3$override.class
+CHANGED,C:\Arduino Sensors1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\arduinosensors\MainActivity$1$override.class

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trucos.xml",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\layout\\activity_trucos.xml"
+    },
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\layout\\device_name.xml"
+    }
+]

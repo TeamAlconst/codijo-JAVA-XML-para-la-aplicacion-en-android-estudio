@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\device.png",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\drawable-mdpi\\device.png"
+    },
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\princi.png",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\drawable-mdpi\\princi.png"
+    },
+    {
+        "merged": "C:\\Arduino Sensors1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\trucoswall.png",
+        "source": "C:\\Arduino Sensors1\\app\\src\\main\\res\\drawable-mdpi\\trucoswall.png"
+    }
+]
